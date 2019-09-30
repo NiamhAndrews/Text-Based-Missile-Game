@@ -1,0 +1,27 @@
+give options menu
+
+1-launch code
+
+2-"scan" for targets
+
+list enemy coordinates and type of ship (some have more health, aircraft carrier/big ship)
+
+give own ship coordinates
+
+
+3-then give option of firing at north, south, east or west
+
+
+give option or warhead type
+
+arm missile
+
+
+list if missile collides or not
+
+
+-target destroyed or still standing
+-fire again?
+
+
+
