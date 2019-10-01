@@ -1,0 +1,19 @@
+git add .
+git commit -m 'First commit'
+git config --global http.proxy http://proxycw3.itcarlow.ie:8080
+git push -u origin master
+
+git config --global user.name "NiamhAndrews"
+git config --global user.email "neand2006@gmail.net"
+git clone https://github.com/ITCGamesProg2/labs19-Niamh-Andrews.git
+NiamhAndrewskinkytables69
+
+git clone https://github.com/NiamhAndrews/Text-Based-Missile-Game
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/PeterLowe/360-19-NiamhAndrews.git
+git push -u origin master

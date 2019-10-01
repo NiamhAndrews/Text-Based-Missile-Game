@@ -61,6 +61,7 @@ int main()
 				if (menuSelection2 == "North")
 				{
 					std::cout << "Target 1 - Friendly  x: 5 y: 0\n";
+
 				}
 				else if (menuSelection2 == "South")
 				{
@@ -85,7 +86,11 @@ int main()
 
 		else if (menuSelection1 == "2")
 		{
-			std::cout << "\nThe launch code is	:	(DONT on a phone keypad)";
+			std::cout << "\nThe launch code is	:	(DONT on a phone keypad)\n\n";
+			std::cout << "Please choose from the following options : \n";
+			std::cout << "1) Scan for targets\n";
+			std::cout << "2) Launch codes\n";
+			std::cout << "3) Close defence system\n\n";
 		}
 
 		else if (menuSelection1 == "3")
